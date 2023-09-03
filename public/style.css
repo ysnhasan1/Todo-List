@@ -1,0 +1,82 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color: azure;
+}
+
+#app-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+    margin: 55px auto;
+}
+
+h1 {
+    font-family: 'Bungee Hairline', cursive;
+    font-size: 55px;
+}
+
+input,
+button {
+    font-family: monospace;
+    border: none;
+    padding: 15px;
+    margin: 10px 5px;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+input {
+    color: #e17917;
+    background-color: #DCE1EB;
+}
+
+button {
+    color: #FDFDFD;
+    background-color: #993245;
+}
+
+button:hover {
+    background-color: #231406;
+    cursor: pointer;
+}
+
+.flex-container {
+    /* ul */
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 0;
+    list-style: none;
+}
+
+.flex-items {
+    /* li */
+
+    flex-grow: 1;
+
+    background-color: #ebedf1;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.flex-items:hover {
+    color: white;
+    background-color: #e17917;
+    cursor: pointer;
+}
+
+footer p {
+    color: #323030;
+}
+
+footer p a {
+    text-decoration: none;
+    font-weight: bold;
+}
