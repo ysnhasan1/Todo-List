@@ -11,8 +11,6 @@ Creating a Todo List using React.js.
 https://ysnhasan1-todo-list.netlify.app/
 
 ## Original Screen Size
-<img src="https://github.com/ysnhasan1/Todo-List/assets/102024926/91978367-6c91-46df-b738-14946e83ef5f"><br />
-
 <img src="https://github.com/ysnhasan1/Todo-List/assets/102024926/d5e68260-6eff-4977-a8b0-2180a551b757"><br />
 
 <img src="https://github.com/ysnhasan1/Todo-List/assets/102024926/09129d82-fc6d-4ac1-bb1d-4cc0bd9778b0"><br />
