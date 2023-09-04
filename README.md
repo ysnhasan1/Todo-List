@@ -5,7 +5,7 @@ Creating a Todo List using React.js.
 
 * In this project, I created a to-do list using React.js. You can add something to your list. </br>
   If you want to delete something that you added, just click on it.</br> 
-* You can click on the link below to experience the application better. Feel free to share your observations with me.
+  You can click on the link below to experience the application better. Feel free to share your observations with me.
 
 ## Website Link 👇
 https://ysnhasan1-todo-list.netlify.app/
